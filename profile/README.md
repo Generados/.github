@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o Hackaton-2024 Kipper Dev.
 
-O tema abrangido neste evento foi "Tecnologia Contra Crises Climáticas: Soluções para Cidades Resilientes"
+O tema neste evento foi "Tecnologia Contra Crises Climáticas: Soluções para Cidades Resilientes"
 
 ## Objetivo do Projeto
 
